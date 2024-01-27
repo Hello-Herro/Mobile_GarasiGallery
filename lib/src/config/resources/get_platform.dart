@@ -2,7 +2,7 @@ import 'dart:io' show Platform;
 
 import 'package:device_info_plus/device_info_plus.dart';
 import 'package:flutter/foundation.dart' show kIsWeb, defaultTargetPlatform;
-import 'package:flutter_application_1/dependensy_injection.dart';
+import 'package:flutter_application_1/src/config/constants/string.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 
 Future<void> initializePlatform() async {
