@@ -10,7 +10,7 @@ import 'package:flutter/material.dart';
 // import 'dart:io';
 
 import 'package:args/args.dart';
-import 'package:flutter_application_1/dashboard.dart';
+import 'package:flutter_application_1/src/pages/dashboard.dart';
 import 'package:flutter_application_1/loginscreen.dart';
 import 'package:flutter_application_1/signup.dart';
 import 'package:flutter_launcher_icons/abs/icon_generator.dart';
